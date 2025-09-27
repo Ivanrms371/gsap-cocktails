@@ -111,7 +111,7 @@ const Hero = () => {
           muted
           playsInline
           preload="auto"
-        />{" "}
+        />
       </div>
     </>
   );
